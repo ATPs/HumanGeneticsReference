@@ -14,4 +14,5 @@ You can get the answer from this file.
 The counting is based on "NCBI Gene ID" and use the eutils of NCBI. Check the example python code to see how the file is generated.
 
 ## file hgnc_ncbi_ensembl_pmid.Top200
+top-200 most-studied genes  
 Genes sorted by the count of papers and keep only the top 200 most studied genes.
