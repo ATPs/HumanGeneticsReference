@@ -1,2 +1,5 @@
-# HumanGeneWiki
-some data I collected for human genes
+# Human Genetics Reference
+
+resources for doing research with human
+
+
