@@ -4,6 +4,7 @@
 SRA search `txid9606[Organism:exp] `, source `RNA`, library layout `paired`, Platform `illumina`, access: `Public`. then send to file, format "Summary".
 
 To date 20190909
+Note: GTEx RNA-seq is not public available. Not sure why the filter `Public` did not work properly.
 
 only count SRR ids with more than 10 million paired reads (the spots_with_mates column in SraRunInfo file). Summarize based on "BioProject" and sort by counts of SRR runs.
 
